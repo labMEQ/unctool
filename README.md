@@ -1,5 +1,5 @@
 # unctool
-The app can be accessed at: 
+The app can be accessed at https://labmeq-app-unctool.streamlit.app/
 
 ABOUT THE APP
 
