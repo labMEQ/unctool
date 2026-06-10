@@ -2,6 +2,7 @@
 The app can be accessed at: 
 
 ABOUT THE APP
+
 Streamlit app for measurement uncertainty evaluation by a top-down approach. This app offers the possibility of choosing two different models for estimating the uncertainty interval:
 - SYMMETRIC APPROACH: the conventional way of estimating uncertainty, it considers the uncertainty of recovery, precision and bias on the root-sum-of-squares method.
 - ASYMMETRIC APPROACH: a new proposed way of estimating uncertainty, it considers the uncertainty of recovery and precision on the root-sum-of-squares method. Bias is used to adjust the position of the interval, leading to an asymmetric interval about the measured value.
@@ -9,6 +10,7 @@ Streamlit app for measurement uncertainty evaluation by a top-down approach. Thi
 For more information about each approach, please refer to (article doi).
 
 HOW TO USE THE APP
+
 The settings for the simulations are made on the left-panel ("Simulation parameters"). It is divided in different containers:
 1. Analytical criteria:
    - Mean value: inform a reference value for the expected mean result to the product, method, or process, as (%), for example, 100% of a given dose. 
