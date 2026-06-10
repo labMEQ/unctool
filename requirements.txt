@@ -1,0 +1,5 @@
+streamlit
+itertools
+numpy
+pandas
+plotly.graph_objects
